@@ -1,1 +1,2 @@
 # booksky
+A simple web-based book management app where users can add, view, and delete book entries. Built with HTML, CSS, and JavaScript, it features a responsive UI, interactive pop-up forms, and dynamic content rendering
